@@ -1,0 +1,6 @@
+playwright
+chromadb
+flask
+google-generativeai
+python-dotenv
+
