@@ -131,5 +131,5 @@ _(Link to your YouTube or Google Drive submission)_
 ## 👨‍💻 Author
 
 **Debojyoti Mondal**
-📢 [LinkedIn](https://linkedin.com/debojyotimondal)
+📢 [LinkedIn](https://www.linkedin.com/in/debojyoti-mondal-05ba931a5/)
 💻 Passionate about AI, NLP, and automation.
